@@ -18,7 +18,8 @@
 ```open the project file```
 
 ## Pre-requisities
-** You will need an API to test**
+** Add Environment JAVA_HOME with values Java's location path(without bin)**
+** Add Environment JMETER with values JMeter's location path(without bin)**
 
 ## URL/API for Test
 https://random-data-api.com/api/v2/users
